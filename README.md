@@ -309,7 +309,7 @@ Invoke-RestMethod -Uri "http://localhost:5000/tasks/1" -Method Delete
 - [ ] Add pagination and filtering
 - [ ] Add centralized error-handling middleware
 
-## 👤 Author
+
 
 **Yash**
 
